@@ -47,5 +47,6 @@
   * [gmplot](google-maps/gmplot.md)
   * [Embeded GoogleMaps into PyQt5](google-maps/embeded-googlemaps-into-pyqt5.md)
 * [取得當前路徑](qu-de-dang-qian-lu-jing.md)
-* [PyCharm 安裝 PyQt5](untitled.md)
+* [環境](huan-jing/README.md)
+  * [PyCharm 安裝 PyQt5](huan-jing/untitled.md)
 

@@ -33,7 +33,7 @@ macOS
 
 **PyCharm** &gt; **Preferences** &gt; **Tools** &gt; **External Tools** &gt; 點選 **+** &gt; 填入以下資訊
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 **`Name`**：可以取任意名稱
 
@@ -45,7 +45,7 @@ macOS
 
 **PyCharm** &gt; **Preferences** &gt; **Tools** &gt; **External Tools** &gt; 點選 **+** &gt; 填入以下資訊
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 **`Name`**：可以取任意名稱
 
@@ -63,19 +63,19 @@ macOS
 
 上述步驟完成後，可以看到**Tools**多出了**External Tools**，裡面包含剛剛所新增的兩個外部工具。
 
-![](.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 執行**Qt Designer**就可以看到其操作介面，預設 **Main Window** &gt; **Create** &gt; 試著拖曳一個Label元件 &gt; 存檔命名`Label.ui`
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 存檔之後回到PyCharm會發現多了`Label.ui`檔，對它按**右鍵** &gt; **External Tools** &gt; **PyUIC**，就會產出對應的`Label.py`檔。
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ### Final test
 
@@ -108,7 +108,7 @@ if __name__ == '__main__':
 
 執行結果：
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## Ref.
 
